@@ -1,0 +1,17 @@
+{
+  "name": "hc-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsnd --respawn  "
+  },
+  "dependencies": {
+    "@types/react": "^16.8.18",
+    "react": "^16.8.6",
+    "typescript": "^3.4.5"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.0.0-pre.39"
+  }
+}
